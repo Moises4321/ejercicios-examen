@@ -1,0 +1,80 @@
+
+body.cuerpo{
+    background-color: steelblue;
+}
+
+section.prueba{
+    color: red;
+    background-color: salmon ;
+}
+
+div.primero{
+background-color: salmon;
+display: inline-block;
+color: red;
+}
+
+div.segundo{
+    color:slateblue;
+    background-color: salmon;
+    display: block;
+
+}
+
+p.id{
+    color: brown;
+    
+}
+
+div.color{
+    background-color: salmon;
+    display: inline-block;
+
+}
+span.resaltar{
+    text-decoration: underline;
+}
+span.mal{
+    text-decoration: line-through;
+}
+span.otro{
+    color: chocolate;
+text-decoration: overline;}
+
+span.pequeño{
+    font-size: smaller;
+}
+
+section.etiquetas{
+    background-color: salmon;
+    display: block;
+}
+
+span.cursiva{
+    font-style: oblique;
+    color: black;
+}
+
+span.negrita{
+    font-weight: bold;
+}
+
+p.lobo{
+    text-align: center;
+}
+
+img.lobo{
+    float: right;
+}
+img.loboizq{
+    float: left;
+}
+span.canis{
+    font-style: italic;
+}
+p.lobito{
+    clear: left;
+}
+h3.tres{
+    clear: left;
+}
